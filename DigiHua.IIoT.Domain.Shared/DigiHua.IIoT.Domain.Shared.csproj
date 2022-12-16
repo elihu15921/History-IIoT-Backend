@@ -47,7 +47,7 @@
 		<PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
 		<PackageReference Include="InfluxDB.Client.Linq" Version="4.9.0" />
 		<PackageReference Include="MathNet.Numerics" Version="5.0.0" />
-		<PackageReference Include="Meziantou.Analyzer" Version="1.0.756">
+		<PackageReference Include="Meziantou.Analyzer" Version="1.0.757">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
