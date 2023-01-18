@@ -149,4 +149,10 @@
 		<Using Include="IIoT.Domain.Infrastructure.Sturdies.SturdyExpansion" Static="true" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Update="test.yml">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
 </Project>
